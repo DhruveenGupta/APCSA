@@ -857,11 +857,11 @@ git push
 
 | Week   | Days          | Activities / Units                                                            |
 | ------ | ------------- | ----------------------------------------------------------------------------- |
-| Week 1 | Mar 10–Mar 16 | **Unit01–Unit03**: Primitives, Conditionals, Loops; practice + FRQs 2019–2021 |
-| Week 2 | Mar 17–Mar 23 | **Unit04–Unit05**: Classes, Strings; practice + FRQs 2019–2021                |
-| Week 3 | Mar 24–Mar 30 | **Unit06–Unit07**: ArrayList, Arrays, 2D Arrays; practice + FRQs 2021–2023    |
-| Week 4 | Mar 31–Apr 6  | **Unit08–Unit09**: Algorithms, Exceptions & I/O; practice + FRQs 2021–2023    |
-| Week 5 | Apr 7–Apr 13  | **Unit10 + Review Advanced Data Structures**; practice FRQs 2019–2023         |
+| Week 1 | Mar 10–Mar 16 | **Unit01–Unit03**: Primitives, Conditionals, Loops; practice + FRQs 2019–2024 |
+| Week 2 | Mar 17–Mar 23 | **Unit04–Unit05**: Classes, Strings; practice + FRQs 2019–2024                |
+| Week 3 | Mar 24–Mar 30 | **Unit06–Unit07**: ArrayList, Arrays, 2D Arrays; practice + FRQs 2021–2024    |
+| Week 4 | Mar 31–Apr 6  | **Unit08–Unit09**: Algorithms, Exceptions & I/O; practice + FRQs 2021–2024    |
+| Week 5 | Apr 7–Apr 13  | **Unit10 + Review Advanced Data Structures**; practice FRQs 2019–2024         |
 | Week 6 | Apr 14–Apr 19 | **Full Review & Mock Exams**; focus on FRQs + timed MCQ practice              |
 
 
