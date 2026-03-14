@@ -1,8 +1,8 @@
 # [Unit Name] — Notes
 
 ## Concepts
-- [Key concept 1]
-- [Key concept 2]
+- A constructor does not have a return type,
+- Default access specifier for a constructor is public.
 
 ## Syntax / Examples
 ```java
