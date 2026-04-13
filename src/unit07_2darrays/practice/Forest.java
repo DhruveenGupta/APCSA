@@ -2,8 +2,7 @@
 //www.apluscompsci.com
 //Name -
 package unit07_2darrays.practice;
-import java.util.Scanner;
-import static java.lang.System.*;
+
 
 public class Forest
 {

@@ -2,10 +2,9 @@
 //www.apluscompsci.com
 //Name -
 package unit07_2darrays.practice;
-import java.io.File;
+
 import java.io.IOException;
-import java.util.Scanner;
-import static java.lang.System.*;
+
 
 public class ForestRunner
 {
