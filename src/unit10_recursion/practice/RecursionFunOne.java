@@ -1,7 +1,4 @@
 package unit10_recursion.practice;
-
-import static java.lang.System.*;
-
 public class RecursionFunOne
 {
 	public static int countOddDigits(int num)
